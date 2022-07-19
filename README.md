@@ -1,0 +1,2 @@
+# cxxsimplepkg
+CXX simple package
